@@ -1,0 +1,35 @@
+.nav_bg{
+    font-size: 1.4rem;
+}
+
+.navbar{
+    background-color: white !important;
+    /* background-color:#3498db !important; */
+}
+
+
+.navbar-brand{
+    font-size: 1.9rem !important;
+    font-weight: bolder;
+}
+
+.navbar a{
+    text-transform: capitalize;
+}
+
+.navbar a:hover{
+    color: #3498db !important;
+}
+
+
+
+
+a.active-cls{
+    font-weight: bold;
+    border-bottom: 2px solid #3498db;
+}
+
+.mainicon{
+    font-size: 1.9rem;
+}
+

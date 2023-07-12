@@ -1,0 +1,20 @@
+.about1{
+    /* border: 2px solid red; */
+    /* margin-top: 15px; */
+    margin-bottom: 50px;
+    /* padding: 10px; */
+}
+
+.aboutimg{
+    border-radius: 5%;
+    width: 85%;
+    /* height: 50%; */
+}
+
+.aboutp{
+    font-size: 1.2rem;
+}
+
+/* .abouttitle{
+    border: 2px solid red;
+} */

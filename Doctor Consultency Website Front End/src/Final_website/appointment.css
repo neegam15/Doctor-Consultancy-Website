@@ -1,0 +1,56 @@
+#app_ul{
+    list-style-type:none;
+    padding: 35px;
+    text-align: left;
+    line-height: 2.5;
+}
+
+span{
+    float: right;
+}
+
+label{
+    text-align: left;
+}
+
+.main_div{
+    height: 100vh;
+}
+
+
+.left_div{
+    min-height: 70vh;
+}
+
+.left_div h2{
+    font-weight: bolder;
+    color: #0046C0;
+}
+
+.left_div h5{
+    font-weight: bold;
+}
+
+.right_div{
+    min-height: 70vh;
+    background-color: #0046C0;
+    color: white;
+    font-weight: bold;
+}
+
+.icon{
+    /* color: #3498db; */
+    color: #0046C0;
+    float: left;
+    opacity: 0.9;
+}
+
+.fff{
+    display: flex;
+    flex-direction: column;
+}
+.ffff{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
